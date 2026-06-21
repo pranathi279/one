@@ -51,10 +51,6 @@
   <snapshots>
     <enabled>true</enabled>
   </snapshots>
-</repository>
-		<id>nexusRepo</id>
-		    <url>http://13.218.115.180:8081/repository/myrepo/</url>
-</repository>
   	</distributionManagement>
 	
 	<pluginRepositories>
