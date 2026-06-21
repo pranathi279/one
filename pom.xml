@@ -51,6 +51,7 @@
   <snapshots>
     <enabled>true</enabled>
   </snapshots>
+</repository>
   	</distributionManagement>
 	
 	<pluginRepositories>
